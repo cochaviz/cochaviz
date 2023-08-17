@@ -1,5 +1,5 @@
 <div align="center">
-<h1>Zohar Cochavi</h1>
+<h1>Hi, my name is Zohar :v:</h1>
 
 <a href="https://www.cochaviz.com">My Website</a> • <a
 href="https://www.linkedin.com/cochaviz">LinkedIn</a> • <a
