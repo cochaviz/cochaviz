@@ -1,6 +1,6 @@
 # Cochaviz
 
-<div style="text-align: center;">
+<div align="center">
 [My Website](https://www.cochaviz.com) • [LinkedIn](https://www.linkedin.com/cochaviz)
 </div>
 
