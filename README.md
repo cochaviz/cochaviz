@@ -1,6 +1,4 @@
-
 <div align="center">
-
 <h1>Cochaviz</h1>
 
 <a href="www.cochaviz.com">My Website</a> • <a
