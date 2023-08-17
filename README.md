@@ -2,7 +2,8 @@
 <h1>Zohar Cochavi</h1>
 
 <a href="www.cochaviz.com">My Website</a> • <a
-href=www.linkedin.com/cochaviz>LinkedIn</a>
+href=www.linkedin.com/cochaviz>LinkedIn</a> • <a
+href=www.github.com/cochaviz>Recursion :eyes:</a>
 </div>
 
 I'm a computer science student at the TU Delft studying Cyber Security and
